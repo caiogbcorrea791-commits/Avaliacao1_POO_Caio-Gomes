@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Avaliacao1_POO_Caio-Gomes/1.0.0": {
+        "runtime": {
+          "Avaliacao1_POO_Caio-Gomes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Avaliacao1_POO_Caio-Gomes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

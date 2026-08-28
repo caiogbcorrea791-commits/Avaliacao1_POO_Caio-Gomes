@@ -1,0 +1,14 @@
+C:\Users\caio61412366\Documents\GitHub\Avaliacao1_POO_Caio-Gomes\bin\Debug\net10.0\Avaliacao1_POO_Caio-Gomes.exe
+C:\Users\caio61412366\Documents\GitHub\Avaliacao1_POO_Caio-Gomes\bin\Debug\net10.0\Avaliacao1_POO_Caio-Gomes.deps.json
+C:\Users\caio61412366\Documents\GitHub\Avaliacao1_POO_Caio-Gomes\bin\Debug\net10.0\Avaliacao1_POO_Caio-Gomes.runtimeconfig.json
+C:\Users\caio61412366\Documents\GitHub\Avaliacao1_POO_Caio-Gomes\bin\Debug\net10.0\Avaliacao1_POO_Caio-Gomes.dll
+C:\Users\caio61412366\Documents\GitHub\Avaliacao1_POO_Caio-Gomes\bin\Debug\net10.0\Avaliacao1_POO_Caio-Gomes.pdb
+C:\Users\caio61412366\Documents\GitHub\Avaliacao1_POO_Caio-Gomes\obj\Debug\net10.0\Avaliacao1_POO_Caio-Gomes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caio61412366\Documents\GitHub\Avaliacao1_POO_Caio-Gomes\obj\Debug\net10.0\Avaliacao1_POO_Caio-Gomes.AssemblyInfoInputs.cache
+C:\Users\caio61412366\Documents\GitHub\Avaliacao1_POO_Caio-Gomes\obj\Debug\net10.0\Avaliacao1_POO_Caio-Gomes.AssemblyInfo.cs
+C:\Users\caio61412366\Documents\GitHub\Avaliacao1_POO_Caio-Gomes\obj\Debug\net10.0\Avaliacao1_POO_Caio-Gomes.csproj.CoreCompileInputs.cache
+C:\Users\caio61412366\Documents\GitHub\Avaliacao1_POO_Caio-Gomes\obj\Debug\net10.0\Avaliacao1_POO_Caio-Gomes.dll
+C:\Users\caio61412366\Documents\GitHub\Avaliacao1_POO_Caio-Gomes\obj\Debug\net10.0\refint\Avaliacao1_POO_Caio-Gomes.dll
+C:\Users\caio61412366\Documents\GitHub\Avaliacao1_POO_Caio-Gomes\obj\Debug\net10.0\Avaliacao1_POO_Caio-Gomes.pdb
+C:\Users\caio61412366\Documents\GitHub\Avaliacao1_POO_Caio-Gomes\obj\Debug\net10.0\Avaliacao1_POO_Caio-Gomes.genruntimeconfig.cache
+C:\Users\caio61412366\Documents\GitHub\Avaliacao1_POO_Caio-Gomes\obj\Debug\net10.0\ref\Avaliacao1_POO_Caio-Gomes.dll
