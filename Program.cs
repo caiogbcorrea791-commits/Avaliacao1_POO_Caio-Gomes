@@ -24,3 +24,26 @@ Console.WriteLine();
 aluno1.ObterSituacao();
 aluno2.ObterSituacao();
 aluno3.ObterSituacao();
+
+// Espaçamento de classes
+Console.WriteLine();
+Console.WriteLine("------------------------------------------------------");
+Console.WriteLine();
+// Classe 3: Livro
+
+Livro livro1 = new Livro("O Gênio do Crime", "João Carlos Marinho", 1969, true);
+Livro livro2 = new Livro("One Piece vol. 1", "Eiichiro Oda", 1997, true);
+Console.WriteLine(livro1);
+Console.WriteLine();
+Console.WriteLine(livro2);
+Console.WriteLine();
+livro1.Emprestar();
+livro1.Emprestar();
+Console.WriteLine(livro1);
+livro1.Devolver();
+Console.WriteLine(livro1);
+Console.WriteLine();
+livro2.Emprestar();
+Console.WriteLine(livro2);
+livro2.Devolver();
+Console.WriteLine(livro2);
