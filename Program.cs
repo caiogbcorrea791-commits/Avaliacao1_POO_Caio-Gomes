@@ -10,7 +10,7 @@ retangulo2.CalcularArea();
 
 // Espaçamento de classes
 Console.WriteLine();
-Console.WriteLine("------------------------------------------------------");
+Console.WriteLine("------------------------------------------------------------------------------------------------------------------");
 Console.WriteLine();
 // Classe 2: Aluno
 
@@ -27,7 +27,7 @@ aluno3.ObterSituacao();
 
 // Espaçamento de classes
 Console.WriteLine();
-Console.WriteLine("------------------------------------------------------");
+Console.WriteLine("------------------------------------------------------------------------------------------------------------------");
 Console.WriteLine();
 // Classe 3: Livro
 
