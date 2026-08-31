@@ -5,19 +5,7 @@ class Retangulo
     public double BaseR
     {
         get { return baseR; }
-        set
-        {
-            if (value <= 0)
-            {
-                Console.WriteLine("Base inválida");
-                return;
-            }
-            else
-            {
-                Console.WriteLine("Definindo base...");
-                BaseR = value; 
-            }
-        }
+        set { BaseR = value; }
     }
     public double AlturaR
     {

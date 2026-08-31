@@ -12,3 +12,4 @@ C:\Users\caio61412366\Documents\GitHub\Avaliacao1_POO_Caio-Gomes\obj\Debug\net10
 C:\Users\caio61412366\Documents\GitHub\Avaliacao1_POO_Caio-Gomes\obj\Debug\net10.0\Avaliacao1_POO_Caio-Gomes.pdb
 C:\Users\caio61412366\Documents\GitHub\Avaliacao1_POO_Caio-Gomes\obj\Debug\net10.0\Avaliacao1_POO_Caio-Gomes.genruntimeconfig.cache
 C:\Users\caio61412366\Documents\GitHub\Avaliacao1_POO_Caio-Gomes\obj\Debug\net10.0\ref\Avaliacao1_POO_Caio-Gomes.dll
+C:\Users\caio61412366\Documents\GitHub\Avaliacao1_POO_Caio-Gomes\obj\Debug\net10.0\Avaliacao1_POO_Caio-Gomes.sourcelink.json
