@@ -46,5 +46,19 @@ Console.WriteLine("Flores tem seus sonhos também");
 Console.WriteLine();
 Console.WriteLine("------------------------------------------------------------------------------------------------------------------");
 Console.WriteLine();
-// Classe 3: 
+// Classe 3: Lâmpada
 
+Lampada lampada1 = new Lampada("Branca", true);
+Lampada lampada2 = new Lampada("Amarela", false);
+// -------------------------------------------------------------------------------------------------------------------------------------
+Console.WriteLine(lampada1);
+Console.WriteLine(lampada2);
+// -------------------------------------------------------------------------------------------------------------------------------------
+lampada1.Desligar();
+Console.WriteLine(lampada1);
+lampada1.Desligar();
+lampada1.Ligar();
+Console.WriteLine(lampada1);
+// -------------------------------------------------------------------------------------------------------------------------------------
+lampada2.Ligar();
+Console.WriteLine(lampada2);
