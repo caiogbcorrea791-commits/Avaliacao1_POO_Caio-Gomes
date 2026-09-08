@@ -30,13 +30,13 @@ class Flores
 
         List<string> cores = new List<string>
         {
-            "Vermelho",
+            "Dourada",
             "Azul",
-            "Amarelo",
+            "Amarela",
             "Verde",
             "Roxa",
             "Laranja",
-            "Aqua"
+            "Ciana"
         };
 
         if (!cores.Contains(cor))
@@ -63,6 +63,6 @@ class Flores
 
     public void Sonhar()
     {
-        Console.WriteLine($"O sonho de {nome} é {sonho}. Obrigada por ver meu sonho!");
+        Console.WriteLine($"O sonho de {nome} era {sonho}. Obrigada por ver meu sonho!");
     }
 }
